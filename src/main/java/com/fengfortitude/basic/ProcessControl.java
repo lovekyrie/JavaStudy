@@ -2,7 +2,7 @@
  * @author duanyupeng
  * @date 2025年7月12日
  */
-package com.example;
+package com.fengfortitude.basic;
 
 public class ProcessControl {
 

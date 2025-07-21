@@ -2,7 +2,7 @@
  * @author duanyupeng
  * @date 2025年7月17日
  */
-package com.objectOriented;
+package com.fengfortitude.oo;
 
 
 public class Polymorphism {

@@ -2,7 +2,7 @@
  * @author duanyupeng
  * @date 2025年7月16日
  */
-package com.objectOriented;
+package com.fengfortitude.oo;
 
 public class Student extends Person {
   private int score;

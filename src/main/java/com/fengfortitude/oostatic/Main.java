@@ -2,7 +2,7 @@
  * @author duanyupeng 
  * @date 2025-07-20
  */
-package com.objectOrientedStatic;
+package com.fengfortitude.oostatic;
 
 public class Main {
   public static void main(String[] args) {

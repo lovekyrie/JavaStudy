@@ -2,7 +2,7 @@
  * @author duanyupeng
  * @date 2025年7月14日
  */
-package com.example;
+package com.fengfortitude.basic;
 
 import java.util.Arrays;
 

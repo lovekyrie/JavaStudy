@@ -2,7 +2,7 @@
  * @author duanyupeng
  * @date 2025年7月16日
  */
-package com.objectOriented;
+package com.fengfortitude.oo;
 
 // 构造方法
 public class MainConstructor {

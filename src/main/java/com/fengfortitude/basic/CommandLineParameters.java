@@ -2,7 +2,7 @@
  * @author duanyupeng
  * @date 2025年7月14日
  */
-package com.example;
+package com.fengfortitude.basic;
 // 要去/demo/target/classes目录下执行java com.example.CommandLineParameters -version
 public class CommandLineParameters {
   public static void main(String[] args) {

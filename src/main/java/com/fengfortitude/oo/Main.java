@@ -2,7 +2,7 @@
  * @author duanyupeng
  * @date 2025年7月15日
  */
-package com.objectOriented;
+package com.fengfortitude.oo;
 
 // 不能在同一个package 建立同样的类名，否则会报错
 class Person {

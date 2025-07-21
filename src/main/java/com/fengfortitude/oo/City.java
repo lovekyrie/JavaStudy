@@ -2,7 +2,7 @@
  * @author duanyupeng
  * @date 2025年7月15日
  */
-package com.objectOriented;
+package com.fengfortitude.oo;
 
 public class City {
   private String name;

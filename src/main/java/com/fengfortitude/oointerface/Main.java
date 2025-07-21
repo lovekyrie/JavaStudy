@@ -1,8 +1,8 @@
 /**
- * @author 
- * @date 
+ * @author duanyupeng
+ * @date 2025-07-21
  */
-package com.objectOrientedInterface;
+package com.fengfortitude.oointerface;
 
 public class Main {
   // 如果一个抽象类没有字段，所有方法全部都是抽象方法：就可以把抽象类改写成接口：
